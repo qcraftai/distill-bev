@@ -19,7 +19,7 @@ Please follow the instructions in [RUN](docs/RUN.md).
 
 ## Main Results
 
-BEVDepth and BEVFormer are respectively used here as the CNNs and Transformers based students to exemplify the improvement by the proposed DistillBEV. 
+BEVDepth and BEVFormer are respectively used here as the CNNs and Transformers based students to exemplify the improvement by DistillBEV. 
 
 * Backbone: ResNet-50 pre-trained on ImageNet-1K 
 
