@@ -25,15 +25,15 @@ BEVDepth and BEVFormer are respectively used in this repo as CNNs and Transforme
 
 | Teacher | Student | mAP | NDS | Checkpoints |
 | ------- | ------- | --- | --- | ----------- |
-| - | BEVDepth | 36.4	| 48.4 | [Google Drive](https://drive.google.com/file/d/16KAze3E1XHZBA1_JMWtu6tozIgVetCzD/view?usp=sharing) [Baidu Cloud](https://pan.baidu.com/s/1pxT4azQya79BDO-iSIiu7Q?pwd=cm65) |
-| CenterPoint | BEVDepth | 39.0	| 50.6 | [Google Drive](https://drive.google.com/file/d/1zoxNjrJwXbigcpgtMd9KjjS3vZ2eFC-e/view?usp=sharing) [Baidu Cloud](https://pan.baidu.com/s/18y1U6lsTWK1sucipLxinDg?pwd=evci) |
-| MVP | BEVDepth | 40.3	| 51.0 | [Google Drive](https://drive.google.com/file/d/1xNl7yw5Kpcv1vhT-B2bK5DNXSmKHdL9a/view?usp=sharing) [Baidu Cloud](https://pan.baidu.com/s/1sIYgJrads8GGLKXPXrWFWA?pwd=9u7v) |
+| - | BEVDepth | 36.4	| 48.4 | [[Google Drive](https://drive.google.com/file/d/16KAze3E1XHZBA1_JMWtu6tozIgVetCzD/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1pxT4azQya79BDO-iSIiu7Q?pwd=cm65)] |
+| CenterPoint | BEVDepth | 39.0	| 50.6 | [[Google Drive](https://drive.google.com/file/d/1zoxNjrJwXbigcpgtMd9KjjS3vZ2eFC-e/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/18y1U6lsTWK1sucipLxinDg?pwd=evci)] |
+| MVP | BEVDepth | 40.3	| 51.0 | [[Google Drive](https://drive.google.com/file/d/1xNl7yw5Kpcv1vhT-B2bK5DNXSmKHdL9a/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1sIYgJrads8GGLKXPXrWFWA?pwd=9u7v)] |
 
 | Teacher | Student | mAP | NDS | Checkpoints |
 | ------- | ------- | --- | --- | ----------- |
-| - | BEVFormer | 32.3 | 43.4 | [Google Drive](https://drive.google.com/file/d/1XSOR8xClMsWfTAlXfOnb1ayU-YGSt6Gh/view?usp=sharing) [Baidu Cloud](https://pan.baidu.com/s/1odedSKeEQ2BuXNZU-If9Iw?pwd=jxn2) |
-| CenterPoint | BEVFormer | 35.9 | 46.8 | [Google Drive](https://drive.google.com/file/d/1gTOTjH279HVkTUqKbHn9b4kF2MscT2Rg/view?usp=sharing) [Baidu Cloud](https://pan.baidu.com/s/1gp4uAVK5ITnUrx9QIaNWzA?pwd=w8gp) |
-| MVP | BEVFormer | 36.7 | 47.6 | [Google Drive](https://drive.google.com/file/d/1duXWz4IkFyqzBuT7bmdNtrTVqSaiOC6J/view?usp=sharing) [Baidu Cloud](https://pan.baidu.com/s/1eTEkNPxJQg353LYKqP5jZA?pwd=2487) |
+| - | BEVFormer | 32.3 | 43.4 | [[Google Drive](https://drive.google.com/file/d/1XSOR8xClMsWfTAlXfOnb1ayU-YGSt6Gh/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1odedSKeEQ2BuXNZU-If9Iw?pwd=jxn2)] |
+| CenterPoint | BEVFormer | 35.9 | 46.8 | [[Google Drive](https://drive.google.com/file/d/1gTOTjH279HVkTUqKbHn9b4kF2MscT2Rg/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1gp4uAVK5ITnUrx9QIaNWzA?pwd=w8gp)] |
+| MVP | BEVFormer | 36.7 | 47.6 | [[Google Drive](https://drive.google.com/file/d/1duXWz4IkFyqzBuT7bmdNtrTVqSaiOC6J/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1eTEkNPxJQg353LYKqP5jZA?pwd=2487)] |
 
 ## Citation
 Please cite the following paper if this repo helps your research: <br>
