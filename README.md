@@ -35,6 +35,20 @@ BEVDepth and BEVFormer are respectively used in this repo as CNNs and Transforme
 | CenterPoint | BEVFormer | 35.9 | 46.8 | [[Google Drive](https://drive.google.com/file/d/1gTOTjH279HVkTUqKbHn9b4kF2MscT2Rg/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1gp4uAVK5ITnUrx9QIaNWzA?pwd=w8gp)] |
 | MVP | BEVFormer | 36.7 | 47.6 | [[Google Drive](https://drive.google.com/file/d/1duXWz4IkFyqzBuT7bmdNtrTVqSaiOC6J/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1eTEkNPxJQg353LYKqP5jZA?pwd=2487)] |
 
+* Backbone: ResNet-101 pre-trained on ImageNet-1K
+
+| Teacher | Student | mAP | NDS | Checkpoints |
+| ------- | ------- | --- | --- | ----------- |
+| - | BEVDepth | 40.7	| 52.2 | [[Google Drive](https://drive.google.com/file/d/1uc4TeEv-W6JdHD2W_gT1M_6mcI76sSx0/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1VEEB1-DUxN9pACmmEMYKnw?pwd=9v4a)] |
+| CenterPoint | BEVDepth | 43.6 | 53.6 | [[Google Drive](https://drive.google.com/file/d/1xUPu9J8S3DlqGa1nE9BmTlzNwwZgjlR2/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1kLYMvBiH9nrCbUsZS57GFg?pwd=5c94)] |
+| MVP | BEVDepth | 45.0 | 54.6 | [[Google Drive](https://drive.google.com/file/d/1VyrNGNGXj1q6APUZyhCxIgUpXHX6xepY/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1leiZlMlltKnH_mADpaLZVA?pwd=jwc5)] |
+
+| Teacher | Student | mAP | NDS | Checkpoints |
+| ------- | ------- | --- | --- | ----------- |
+| - | BEVFormer | 34.9 | 46.0 | [[Google Drive](https://drive.google.com/file/d/1d30ZQHRnFutGS20AgisRjIDQx2ixUSrd/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1UtDi9Sz4dbxljzgx1af2rw?pwd=h32f)] |
+| CenterPoint | BEVFormer | 37.4 | 48.2 | [[Google Drive](https://drive.google.com/file/d/1yL5JohUW2s5qnhu4SYeD7QLZhBq1ldHJ/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1RWz-Het9eM0uNhJqCCqjYw?pwd=wdrc)] |
+| MVP | BEVFormer | 38.2 | 49.1 | [[Google Drive](https://drive.google.com/file/d/11Ri8NOMCGG3MSsfZQLkM6XW8kRwc5SzV/view?usp=sharing)] [[Baidu Cloud](https://pan.baidu.com/s/1wSUIVV_sxrMpTa1q7TAaIw?pwd=9axy)] |
+
 ## Citation
 Please cite the following paper if this repo helps your research: <br>
 ```
